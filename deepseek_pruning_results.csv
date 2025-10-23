@@ -1,0 +1,2 @@
+model_id,alias,precision,time_s,energy_kwh,co2_kg,tokens_out,ppl,bleu,sparsity,ram_GB,vram_alloc_GB,vram_reserved_GB,notes,kg_per_kwh
+deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B,r1q15b,int8 (pruned),254.53656339645386,0.0070688536320938,0.0,96,228.52951087041473,5.439031139894533,0.1999999996947021,4.611972808837891,2.101942539215088,2.828125,"GPU=NVIDIA A100-SXM4-40GB, VRAM=39.6 GB",0.0
