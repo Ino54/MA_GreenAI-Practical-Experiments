@@ -1,0 +1,2 @@
+model_id,alias,backend,precision,time_s,energy_kwh,co2_kg,kg_per_kwh,tokens_out,ppl,bleu,ram_GB,vram_alloc_GB,vram_reserved_GB,notes
+deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B,r1q15b,hf_4bit_sdpa,int4_nf4_sdpa,67.500892162323,0.0019061911833337,0.0008627817309722695,0.45262077514353394,96,238.56302855898446,11.309590010004234,4.244472503662109,1.517488956451416,1.583984375,MAX_LEN_CAP=128; bf16_autocast=True
