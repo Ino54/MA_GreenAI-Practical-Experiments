@@ -1,0 +1,2 @@
+teacher_id,student_id,kd_temperature,kd_alpha,block_size,epochs,ppl,bleu,tokens_out,notes,time_s_total,energy_kwh_total,co2_kg_total,kg_per_kwh
+bigscience/bloom-3b,bigscience/bloom-560m,2.5,0.7,1024,3,329.86669051866465,1.1974232112880157,96,"GPU=NVIDIA A100-SXM4-40GB, VRAM=39.6 GB; Teacher 8-bit=True; Student 4-bit=True; LoRA=True",588.2595839500427,0.0262480651463129,0.012357142853776721,0.4707830000000036
