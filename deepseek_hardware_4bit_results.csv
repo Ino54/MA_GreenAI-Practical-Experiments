@@ -1,0 +1,2 @@
+model_id,alias,precision,time_s,energy_kwh,co2_kg,steady_time_s,steady_energy_kwh,steady_co2_kg,kg_per_kwh,tokens_out,ppl,bleu,ram_GB,vram_alloc_GB,vram_reserved_GB,notes
+deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B,r1q15b,"int4 (NF4, double-quant, sdpa)",67.66661381721497,0.0018943293745541001,0.0008574128298877807,35.728373527526855,0.0010734117595057,0.0004858484626356278,0.45262077514350124,96,238.56302855898446,11.309590010004234,4.432037353515625,1.517488956451416,1.583984375,compile=False; pinned=True; nb=True; MAX_LEN_CAP=128; bf16_autocast=True
